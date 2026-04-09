@@ -1,0 +1,10 @@
+{
+  "model": "AdaBoost",
+  "dataset": "Hybrid",
+  "best_params": {
+    "learning_rate": 1.0,
+    "n_estimators": 150
+  },
+  "cv_auc": 0.8345042928610059,
+  "threshold": 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "model": "KNN",
+  "dataset": "Hybrid",
+  "best_params": {
+    "metric": "minkowski",
+    "n_neighbors": 9,
+    "weights": "distance"
+  },
+  "cv_auc": 0.9008484315846405,
+  "threshold": 0.255
+}

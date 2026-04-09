@@ -1,0 +1,15 @@
+{
+  "model": "NaiveBayes",
+  "dataset": "FP",
+  "best_params": {
+    "alpha": 1.0
+  },
+  "cv_auc": 0.7639627839372636,
+  "test_auc": 0.8453650621957814,
+  "test_acc": 0.7511627906976744,
+  "test_sens": 0.7488372093023256,
+  "test_spec": 0.7534883720930232,
+  "test_mcc": 0.5023310149673529,
+  "threshold": 0.3,
+  "sens_spec_diff": 0.0046511627906976605
+}

@@ -1,0 +1,10 @@
+{
+  "model": "SVM-RBF",
+  "dataset": "Hybrid",
+  "best_params": {
+    "C": 2,
+    "gamma": 0.01
+  },
+  "cv_auc": 0.9162266765819362,
+  "threshold": 0.635
+}

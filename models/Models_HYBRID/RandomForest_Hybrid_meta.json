@@ -1,0 +1,17 @@
+{
+  "model": "RandomForest",
+  "dataset": "Hybrid",
+  "best_params": {
+    "min_samples_split": 2,
+    "min_samples_leaf": 2,
+    "max_features": "log2",
+    "max_depth": null
+  },
+  "cv_auc": 0.9125760546241211,
+  "test_auc": 0.9768793942671714,
+  "test_accuracy": 0.9046511627906977,
+  "test_sensitivity": 0.8465116279069768,
+  "test_specificity": 0.9627906976744186,
+  "test_mcc": 0.8148296560760738,
+  "sens_spec_diff": 0.11627906976744184
+}

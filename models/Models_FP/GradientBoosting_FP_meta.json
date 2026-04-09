@@ -1,0 +1,17 @@
+{
+  "model": "GradientBoosting",
+  "dataset": "FP",
+  "best_params": {
+    "n_estimators": 150,
+    "max_depth": 5,
+    "learning_rate": 0.1
+  },
+  "cv_auc": 0.9042607490535424,
+  "test_auc": 0.9565278528934559,
+  "test_acc": 0.8976744186046511,
+  "test_sens": 0.8976744186046511,
+  "test_spec": 0.8976744186046511,
+  "test_mcc": 0.7953488372093023,
+  "threshold": 0.425,
+  "sens_spec_diff": 0.0
+}

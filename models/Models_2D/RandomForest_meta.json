@@ -1,0 +1,18 @@
+{
+  "model": "RandomForest",
+  "dataset": "2D",
+  "best_params": {
+    "n_estimators": 250,
+    "min_samples_split": 5,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt",
+    "max_depth": null
+  },
+  "cv_auc": 0.9059128244997294,
+  "test_auc": 0.9679826933477556,
+  "test_acc": 0.891860465116279,
+  "test_sens": 0.8325581395348837,
+  "test_spec": 0.9511627906976744,
+  "test_mcc": 0.7892921031135641,
+  "balanced": false
+}

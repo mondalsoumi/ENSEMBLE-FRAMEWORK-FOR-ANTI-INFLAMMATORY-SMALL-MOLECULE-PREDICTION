@@ -1,0 +1,17 @@
+{
+  "model": "XGBoost",
+  "dataset": "2D",
+  "cv_method": "StratifiedKFold (5)",
+  "cv_auc": 0.9032213358572202,
+  "best_params": {
+    "subsample": 0.8,
+    "n_estimators": 200,
+    "max_depth": 4,
+    "learning_rate": 0.1,
+    "colsample_bytree": 0.8
+  },
+  "threshold": 0.56,
+  "train_sensitivity": 0.9622093023255814,
+  "train_specificity": 0.9761627906976744,
+  "balance_rule": "|sens-spec| <= 0.05"
+}

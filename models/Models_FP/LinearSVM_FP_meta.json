@@ -1,0 +1,15 @@
+{
+  "model": "LinearSVM",
+  "dataset": "FP",
+  "best_params": {
+    "C": 0.1
+  },
+  "cv_auc": 0.8569353366684694,
+  "test_auc": 0.9541427798810168,
+  "test_acc": 0.8906976744186047,
+  "test_sens": 0.8906976744186047,
+  "test_spec": 0.8906976744186047,
+  "test_mcc": 0.7813953488372093,
+  "threshold": 0.5349999999999999,
+  "sens_spec_diff": 0.0
+}

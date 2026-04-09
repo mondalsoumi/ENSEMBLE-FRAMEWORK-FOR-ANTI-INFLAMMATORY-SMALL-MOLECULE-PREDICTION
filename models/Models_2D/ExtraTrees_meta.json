@@ -1,0 +1,16 @@
+{
+  "model": "ExtraTrees",
+  "dataset": "2D",
+  "best_params": {
+    "n_estimators": 250,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": 25
+  },
+  "cv_auc": 0.9120800094645753,
+  "test_auc": 0.9758977825851812,
+  "test_sensitivity": 0.8860465116279069,
+  "test_specificity": 0.9627906976744186,
+  "balanced": false
+}

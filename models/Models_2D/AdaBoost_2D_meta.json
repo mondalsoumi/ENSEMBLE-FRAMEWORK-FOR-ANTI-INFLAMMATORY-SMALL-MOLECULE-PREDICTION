@@ -1,0 +1,10 @@
+{
+  "model": "AdaBoost",
+  "dataset": "2D",
+  "best_params": {
+    "n_estimators": 150,
+    "learning_rate": 1.5
+  },
+  "cv_auc_mean": 0.8400286754101315,
+  "cv_method": "RepeatedStratifiedKFold (5x3)"
+}

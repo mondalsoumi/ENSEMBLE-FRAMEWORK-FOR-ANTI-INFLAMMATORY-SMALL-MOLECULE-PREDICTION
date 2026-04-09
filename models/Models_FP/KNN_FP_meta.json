@@ -1,0 +1,17 @@
+{
+  "model": "KNN",
+  "dataset": "FP",
+  "best_params": {
+    "weights": "distance",
+    "p": 1,
+    "n_neighbors": 7
+  },
+  "cv_auc": 0.8815390075716604,
+  "test_auc": 0.9260275824770147,
+  "test_acc": 0.8697674418604651,
+  "test_sens": 0.872093023255814,
+  "test_spec": 0.8674418604651163,
+  "test_mcc": 0.7395428831463806,
+  "threshold": 0.5599999999999999,
+  "sens_spec_diff": 0.0046511627906976605
+}

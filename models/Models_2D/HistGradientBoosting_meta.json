@@ -1,0 +1,13 @@
+{
+  "model": "HistGradientBoosting",
+  "dataset": "2D",
+  "best_params": {
+    "n_estimators": 150,
+    "learning_rate": 1.5
+  },
+  "cv_auc": 0.8400286754101315,
+  "test_auc": 0.9306327744726879,
+  "test_sensitivity": 0.8302325581395349,
+  "test_specificity": 0.8930232558139535,
+  "balance_diff": 0.10232558139534886
+}

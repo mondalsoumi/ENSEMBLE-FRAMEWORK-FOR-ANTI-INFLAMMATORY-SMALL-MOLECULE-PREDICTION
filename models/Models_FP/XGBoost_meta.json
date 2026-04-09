@@ -1,0 +1,19 @@
+{
+  "model": "XGBoost",
+  "dataset": "FP",
+  "best_params": {
+    "subsample": 0.8,
+    "n_estimators": 200,
+    "max_depth": 4,
+    "learning_rate": 0.1,
+    "colsample_bytree": 0.9
+  },
+  "cv_auc": 0.9020019267171444,
+  "test_auc": 0.9663331530557059,
+  "accuracy": 0.913953488372093,
+  "sensitivity": 0.913953488372093,
+  "specificity": 0.913953488372093,
+  "mcc": 0.827906976744186,
+  "threshold": 0.45499999999999996,
+  "balance_diff": 0.0
+}

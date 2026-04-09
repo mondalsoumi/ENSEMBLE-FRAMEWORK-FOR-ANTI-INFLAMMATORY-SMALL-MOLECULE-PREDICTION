@@ -1,0 +1,17 @@
+{
+  "model": "HistGradientBoosting",
+  "dataset": "Hybrid",
+  "best_params": {
+    "max_iter": 150,
+    "max_depth": null,
+    "learning_rate": 0.1,
+    "l2_regularization": 1.0
+  },
+  "cv_auc": 0.9165748377501352,
+  "test_auc": 0.9674418604651163,
+  "test_accuracy": 0.9011627906976745,
+  "test_sensitivity": 0.8558139534883721,
+  "test_specificity": 0.9465116279069767,
+  "test_mcc": 0.8056460738983395,
+  "sens_spec_diff": 0.09069767441860466
+}

@@ -1,0 +1,12 @@
+{
+  "model": "MLP",
+  "dataset": "Hybrid",
+  "cv_auc": 0.9047213020551651,
+  "test_auc": 0.9660627366143861,
+  "test_accuracy": 0.9093023255813953,
+  "test_sensitivity": 0.8813953488372093,
+  "test_specificity": 0.9372093023255814,
+  "test_mcc": 0.8198826955015787,
+  "sens_spec_diff": 0.05581395348837215,
+  "threshold": 0.3
+}

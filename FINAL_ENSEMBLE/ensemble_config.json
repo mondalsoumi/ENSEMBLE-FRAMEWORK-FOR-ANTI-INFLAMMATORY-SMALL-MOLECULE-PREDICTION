@@ -1,0 +1,18 @@
+{
+    "models": {
+        "2D": {
+            "svm": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_2D/SVM_RBF.pkl",
+            "extratrees": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_2D/ExtraTrees.pkl",
+            "mlp": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_2D/MLP_2D.keras"
+        },
+        "FP": {
+            "extratrees": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_FP/ExtraTrees_FP.pkl",
+            "lightgbm": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_FP/LightGBM.pkl"
+        },
+        "HYBRID": {
+            "extratrees": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_HYBRID/ExtraTrees_Hybrid.pkl",
+            "lightgbm": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_HYBRID/LightGBM_Hybrid.pkl",
+            "mlp": "/content/drive/MyDrive/FINAL_AntiInflam_Project/Models_HYBRID/MLP_HYBRID.keras"
+        }
+    }
+}

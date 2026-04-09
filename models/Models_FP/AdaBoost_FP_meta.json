@@ -1,0 +1,16 @@
+{
+  "model": "AdaBoost",
+  "dataset": "FP",
+  "best_params": {
+    "n_estimators": 150,
+    "learning_rate": 1.5
+  },
+  "cv_auc": 0.8134008247701459,
+  "test_auc": 0.9323526230394809,
+  "test_acc": 0.8523255813953489,
+  "test_sens": 0.8674418604651163,
+  "test_spec": 0.8372093023255814,
+  "test_mcc": 0.7049734119602517,
+  "threshold": 0.495,
+  "sens_spec_diff": 0.03023255813953485
+}

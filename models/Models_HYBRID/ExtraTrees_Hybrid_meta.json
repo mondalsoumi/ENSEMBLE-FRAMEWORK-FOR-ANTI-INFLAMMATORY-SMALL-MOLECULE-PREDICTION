@@ -1,0 +1,18 @@
+{
+  "model": "ExtraTrees",
+  "dataset": "Hybrid",
+  "best_params": {
+    "n_estimators": 200,
+    "min_samples_leaf": 2,
+    "max_features": "sqrt",
+    "max_depth": 15,
+    "class_weight": "balanced"
+  },
+  "cv_auc": 0.9139625187716711,
+  "test_auc": 0.9742401297998918,
+  "test_accuracy": 0.95,
+  "test_sensitivity": 0.9279069767441861,
+  "test_specificity": 0.9720930232558139,
+  "test_mcc": 0.9008798716281264,
+  "sens_spec_diff": 0.04418604651162783
+}

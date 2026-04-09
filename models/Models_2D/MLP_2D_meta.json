@@ -1,0 +1,12 @@
+{
+  "model": "MLP",
+  "dataset": "2D",
+  "cv_auc": 0.893438514061655,
+  "test_auc": 0.967247160627366,
+  "test_accuracy": 0.9127906976744186,
+  "test_sensitivity": 0.9116279069767442,
+  "test_specificity": 0.913953488372093,
+  "test_mcc": 0.8255836278657224,
+  "sens_spec_diff": 0.0023255813953487747,
+  "threshold": 0.57
+}

@@ -1,0 +1,15 @@
+{
+  "model": "KNN",
+  "dataset": "2D",
+  "best_params": {
+    "weights": "distance",
+    "p": 1,
+    "n_neighbors": 7
+  },
+  "cv_auc": 0.8880837128011901,
+  "test_auc": 0.9325581395348836,
+  "test_sensitivity": 0.8883720930232558,
+  "test_specificity": 0.8883720930232558,
+  "sens_spec_diff": 0.0,
+  "threshold": 0.6299999999999999
+}

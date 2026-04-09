@@ -1,0 +1,11 @@
+{
+  "model": "LightGBM",
+  "dataset": "Hybrid",
+  "test_auc": 0.9790265008112493,
+  "test_accuracy": 0.9395348837209302,
+  "test_sensitivity": 0.913953488372093,
+  "test_specificity": 0.9651162790697675,
+  "test_mcc": 0.8802225713517727,
+  "sens_spec_diff": 0.05116279069767449,
+  "threshold": 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "model": "GradientBoosting",
+  "dataset": "Hybrid",
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 3,
+    "n_estimators": 150,
+    "subsample": 0.8
+  },
+  "cv_auc": 0.8954561587344511,
+  "threshold": 0.535
+}

@@ -1,0 +1,19 @@
+{
+  "model": "RandomForest",
+  "dataset": "FP",
+  "best_params": {
+    "n_estimators": 150,
+    "min_samples_split": 5,
+    "min_samples_leaf": 1,
+    "max_features": "log2",
+    "max_depth": null
+  },
+  "cv_auc": 0.9115222755543538,
+  "test_auc": 0.9511952406706329,
+  "test_acc": 0.9,
+  "test_sens": 0.8976744186046511,
+  "test_spec": 0.9023255813953488,
+  "test_mcc": 0.8000086534665249,
+  "threshold": 0.41,
+  "sens_spec_diff": 0.0046511627906976605
+}
