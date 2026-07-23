@@ -50,3 +50,17 @@ prevent data leakage.
 | Sensitivity |  0.9512 |
 | Specificity |  0.9209 |
 | MCC | 0.8725 |
+
+## Performance of Ensemble Model on unseen FDA compounds during External Validation.
+| Compound | Probability |Prediction | True Class |
+|---|---|---|---|
+| Celecoxib |0.985657 | 1 | 1 |
+| Zileuton | 0.980216 | 1 | 1 |
+| Nabumetone |  0.925657 | 1 | 1 |
+| Indomethacin |  0.897206 | 1 | 1 |
+| Flurbiprofen | 0.776285 | 1 | 1 |
+| Dabrafenib |0.219694 | 0 | 0 |
+| Larotrectinib |0.064205 | 0 | 0 |
+| Sotorasib |  0.144528 | 0 | 0 |
+| Dacarbazine |  0.029502 | 0 | 0 |
+| Tamoxifen citrate | 0.030264 | 0 | 0 |
